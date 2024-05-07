@@ -15,10 +15,4 @@ export const estilos = StyleSheet.create({
       fontWeight: 'bold',
       color: 'black'
     },
-    rimuru: {
-      paddingTop: 40, 
-      fontSize: 28,
-      fontWeight: 'bold',
-      color: 'blue',
-    }
   });
